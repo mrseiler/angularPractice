@@ -1,0 +1,19 @@
+.wrap {
+    background-color: lightgreen;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.wrap h1 {
+    text-align: center;
+}
+
+.wrap li {
+    display: inline;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.wrap li a {
+    text-decoration: none;
+}
